@@ -1,6 +1,6 @@
 # 🎨 Theme System Overview
 
-The Vulcano Community theme system provides a comprehensive set of design tokens that ensure visual consistency across the entire platform.
+The VulcanoConnects theme system provides a comprehensive set of design tokens that ensure visual consistency across the entire platform.
 
 ## 🌟 Key Features
 

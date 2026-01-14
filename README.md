@@ -1,6 +1,6 @@
-# 🌋 Vulcano Community - Documentation
+# 🌋 VulcanoConnects - Documentation
 
-Welcome to the **Vulcano Community** documentation hub! This repository contains all public documentation for contributors, designers, and developers.
+Welcome to the **VulcanoConnects** documentation hub! This repository contains all public documentation for contributors, designers, and developers.
 
 > **Note**: This is a documentation-only repository. The source code is maintained in a private repository.
 
@@ -21,9 +21,9 @@ Welcome to the **Vulcano Community** documentation hub! This repository contains
 
 ---
 
-## 📚 About Vulcano Community
+## 📚 About VulcanoConnects
 
-Vulcano Community is a modern web platform built with:
+VulcanoConnects is a modern web platform built with:
 - **Next.js 16** with App Router
 - **React 19** with Server Components
 - **TypeScript 5** for type safety
@@ -73,7 +73,7 @@ docs/
 
 This documentation is licensed under [MIT License](LICENSE).
 
-The Vulcano Community platform source code is proprietary.
+The VulcanoConnects platform source code is proprietary.
 
 ---
 
@@ -86,5 +86,5 @@ The Vulcano Community platform source code is proprietary.
 ---
 
 <div align="center">
-Made with ❤️ by the Vulcano Community Team
+Made with ❤️ by the VulcanoConnects Team
 </div>

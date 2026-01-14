@@ -1,6 +1,6 @@
-# 🤝 Contributing to Vulcano Community
+# 🤝 Contributing to VulcanoConnects
 
-Thank you for your interest in contributing to Vulcano Community! This guide will help you get started.
+Thank you for your interest in contributing to VulcanoConnects! This guide will help you get started.
 
 ## 📋 Ways to Contribute
 
@@ -93,4 +93,4 @@ When reporting bugs, please include:
 
 ## 🙏 Thank You
 
-Every contribution, no matter how small, helps make Vulcano Community better for everyone. We appreciate your time and effort!
+Every contribution, no matter how small, helps make VulcanoConnects better for everyone. We appreciate your time and effort!

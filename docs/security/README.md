@@ -17,7 +17,7 @@ We take all security reports seriously and will respond promptly.
 
 ## Security Best Practices
 
-The Vulcano Community platform follows security best practices:
+The VulcanoConnects platform follows security best practices:
 
 ### Authentication & Authorization
 - Email verification required for all accounts
@@ -45,4 +45,4 @@ We appreciate responsible disclosure and will:
 - Credit you in security advisories (if desired)
 - Work with you to ensure proper fix before public disclosure
 
-Thank you for helping keep Vulcano Community secure! 🛡️
+Thank you for helping keep VulcanoConnects secure! 🛡️

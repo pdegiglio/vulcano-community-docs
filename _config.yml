@@ -1,8 +1,8 @@
-# GitHub Pages Configuration for Vulcano Community Docs
+# GitHub Pages Configuration for VulcanoConnects Docs
 
 theme: jekyll-theme-cayman
-title: Vulcano Community Documentation
-description: Theme system, contribution guidelines, and developer resources for Vulcano Community
+title: VulcanoConnects Documentation
+description: Theme system, contribution guidelines, and developer resources for VulcanoConnects
 
 # Navigation
 plugins:

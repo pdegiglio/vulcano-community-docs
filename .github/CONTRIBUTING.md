@@ -1,4 +1,4 @@
-# Contributing to Vulcano Community Documentation
+# Contributing to VulcanoConnects Documentation
 
 Please see [docs/contributing/README.md](../docs/contributing/README.md) for full contributing guidelines.
 
