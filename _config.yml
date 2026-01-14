@@ -1,0 +1,21 @@
+# GitHub Pages Configuration for Vulcano Community Docs
+
+theme: jekyll-theme-cayman
+title: Vulcano Community Documentation
+description: Theme system, contribution guidelines, and developer resources for Vulcano Community
+
+# Navigation
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - docs/**/*.md
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
