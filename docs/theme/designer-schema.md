@@ -14,6 +14,7 @@ This document lists ALL theme tokens that need to be defined for both light and 
 ## 🎨 BACKGROUND COLORS
 
 ### Page Backgrounds
+
 | Token | Description | Light Theme | Dark Theme |
 |-------|-------------|-------------|------------|
 | `--background` | Main page background | `#ffffff` | `#0a0a0a` |
@@ -25,6 +26,7 @@ This document lists ALL theme tokens that need to be defined for both light and 
 ## 📝 TEXT COLORS (Foregrounds)
 
 ### Primary Text
+
 | Token | Description | Light Theme | Dark Theme |
 |-------|-------------|-------------|------------|
 | `--foreground` | Main body text | `#232323` | `#fafafa` |
@@ -36,6 +38,7 @@ This document lists ALL theme tokens that need to be defined for both light and 
 ## 🃏 CARDS & SURFACES
 
 ### Card Elements
+
 | Token | Description | Light Theme | Dark Theme |
 |-------|-------------|-------------|------------|
 | `--card` | Card background | `#ffffff` | `#18181b` |
@@ -47,6 +50,7 @@ This document lists ALL theme tokens that need to be defined for both light and 
 ## 🎯 BRAND COLORS
 
 ### Primary Brand Color (Main CTAs, highlights)
+
 | Token | Description | Light Theme | Dark Theme | Usage |
 |-------|-------------|-------------|------------|-------|
 | `--primary` | Primary brand color | `#ca8a04` | `#eab308` | Main buttons, links |
@@ -55,6 +59,7 @@ This document lists ALL theme tokens that need to be defined for both light and 
 | `--primary-light` | Primary tint/background | `#fef9c3` | `#713f12` | Subtle highlights |
 
 ### Secondary Brand Color (Supporting elements)
+
 | Token | Description | Light Theme | Dark Theme | Usage |
 |-------|-------------|-------------|------------|-------|
 | `--secondary` | Secondary brand color | `#57534e` | `#52525b` | Secondary buttons |
@@ -63,6 +68,7 @@ This document lists ALL theme tokens that need to be defined for both light and 
 | `--secondary-light` | Secondary tint | `#f5f5f4` | `#27272a` | Subtle backgrounds |
 
 ### Accent Color (Links, highlights)
+
 | Token | Description | Light Theme | Dark Theme | Usage |
 |-------|-------------|-------------|------------|-------|
 | `--accent` | Accent color | `#2563eb` | `#3b82f6` | Links, badges |
@@ -75,6 +81,7 @@ This document lists ALL theme tokens that need to be defined for both light and 
 ## ✅ STATE COLORS
 
 ### Success States
+
 | Token | Description | Light Theme | Dark Theme | Usage |
 |-------|-------------|-------------|------------|-------|
 | `--success` | Success color | `#16a34a` | `#22c55e` | Success messages |
@@ -83,6 +90,7 @@ This document lists ALL theme tokens that need to be defined for both light and 
 | `--success-light` | Success tint | `#dcfce7` | `#14532d` | Success backgrounds |
 
 ### Error/Danger States
+
 | Token | Description | Light Theme | Dark Theme | Usage |
 |-------|-------------|-------------|------------|-------|
 | `--error` | Error color | `#dc2626` | `#ef4444` | Error messages |
@@ -91,6 +99,7 @@ This document lists ALL theme tokens that need to be defined for both light and 
 | `--error-light` | Error tint | `#fee2e2` | `#7f1d1d` | Error backgrounds |
 
 ### Warning States
+
 | Token | Description | Light Theme | Dark Theme | Usage |
 |-------|-------------|-------------|------------|-------|
 | `--warning` | Warning color | `#ea580c` | `#f97316` | Warning messages |
@@ -103,6 +112,7 @@ This document lists ALL theme tokens that need to be defined for both light and 
 ## 🔲 BORDERS
 
 ### Border Colors
+
 | Token | Description | Light Theme | Dark Theme | Usage |
 |-------|-------------|-------------|------------|-------|
 | `--border` | Default border | `#e7e5e4` | `#3f3f46` | All borders |
@@ -114,6 +124,7 @@ This document lists ALL theme tokens that need to be defined for both light and 
 ## 🔇 MUTED/SUBTLE ELEMENTS
 
 ### Muted Colors
+
 | Token | Description | Light Theme | Dark Theme | Usage |
 |-------|-------------|-------------|------------|-------|
 | `--muted` | Muted background | `#f5f5f4` | `#27272a` | Subtle backgrounds |
@@ -124,6 +135,7 @@ This document lists ALL theme tokens that need to be defined for both light and 
 ## 🚫 DISABLED STATES
 
 ### Disabled Elements
+
 | Token | Description | Light Theme | Dark Theme | Usage |
 |-------|-------------|-------------|------------|-------|
 | `--disabled` | Disabled background | `#d6d3d1` | `#3f3f46` | Disabled buttons |
@@ -134,6 +146,7 @@ This document lists ALL theme tokens that need to be defined for both light and 
 ## 🧭 NAVIGATION
 
 ### Navigation Bar
+
 | Token | Description | Light Theme | Dark Theme | Usage |
 |-------|-------------|-------------|------------|-------|
 | `--nav-background` | Nav bar background | `#ffffff` | `#18181b` | Header background |
@@ -148,6 +161,7 @@ This document lists ALL theme tokens that need to be defined for both light and 
 ## 🦶 FOOTER
 
 ### Footer Section
+
 | Token | Description | Light Theme | Dark Theme | Usage |
 |-------|-------------|-------------|------------|-------|
 | `--footer-background` | Footer background | `#ffffff` | `#18181b` | Footer background |
@@ -161,6 +175,7 @@ This document lists ALL theme tokens that need to be defined for both light and 
 ## 🔤 TYPOGRAPHY
 
 ### Font Sizes
+
 | Token | Description | Current Value | Designer Value |
 |-------|-------------|---------------|----------------|
 | `--font-size-xs` | Extra small text | `0.75rem` (12px) | |
@@ -173,6 +188,7 @@ This document lists ALL theme tokens that need to be defined for both light and 
 | `--font-size-4xl` | Heading 2 | `2.25rem` (36px) | |
 
 ### Font Weights
+
 | Token | Description | Current Value | Designer Value |
 |-------|-------------|---------------|----------------|
 | `--font-weight-normal` | Normal text | `400` | |
@@ -182,6 +198,7 @@ This document lists ALL theme tokens that need to be defined for both light and 
 | `--font-weight-extrabold` | Extra bold | `800` | |
 
 ### Line Heights
+
 | Token | Description | Current Value | Designer Value |
 |-------|-------------|---------------|----------------|
 | `--line-height-tight` | Tight (headings) | `1.25` | |
@@ -189,6 +206,7 @@ This document lists ALL theme tokens that need to be defined for both light and 
 | `--line-height-relaxed` | Relaxed | `1.75` | |
 
 ### Font Families
+
 | Token | Description | Current Value | Designer Value |
 |-------|-------------|---------------|----------------|
 | `--font-family-sans` | Body font | Inter, system-ui | |
@@ -199,6 +217,7 @@ This document lists ALL theme tokens that need to be defined for both light and 
 ## 📏 SPACING
 
 ### Standard Spacing Scale
+
 | Token | Description | Current Value | Designer Value |
 |-------|-------------|---------------|----------------|
 | `--spacing-xs` | Extra small | `0.25rem` (4px) | |
@@ -213,6 +232,7 @@ This document lists ALL theme tokens that need to be defined for both light and 
 ## 🔘 BORDER RADIUS
 
 ### Corner Rounding
+
 | Token | Description | Current Value | Designer Value |
 |-------|-------------|---------------|----------------|
 | `--radius-sm` | Small radius | `0.375rem` (6px) | |
@@ -226,6 +246,7 @@ This document lists ALL theme tokens that need to be defined for both light and 
 ## 🌑 SHADOWS
 
 ### Box Shadows (Auto-calculated per theme)
+
 | Token | Description | Usage |
 |-------|-------------|-------|
 | `--shadow-sm` | Small shadow | Subtle elevation |
@@ -237,6 +258,7 @@ This document lists ALL theme tokens that need to be defined for both light and 
 ## 📋 USAGE GUIDE
 
 ### Component Mapping
+
 
 **Buttons:**
 - Primary CTA → `--primary` / `--primary-hover` / `--primary-foreground`

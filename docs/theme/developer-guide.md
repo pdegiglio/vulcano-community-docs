@@ -5,6 +5,7 @@ This guide shows how to use the centralized theme system with Tailwind CSS v4.
 ## ✅ DO - Use Theme Tokens
 
 ### Backgrounds
+
 ```tsx
 // ✅ Good - uses theme token
 <div className="bg-card">Content</div>
@@ -16,6 +17,7 @@ This guide shows how to use the centralized theme system with Tailwind CSS v4.
 ```
 
 ### Text Colors
+
 ```tsx
 // ✅ Good
 <p className="text-foreground">Main text</p>
@@ -27,6 +29,7 @@ This guide shows how to use the centralized theme system with Tailwind CSS v4.
 ```
 
 ### Buttons
+
 ```tsx
 // ✅ Primary Button
 <button className="bg-primary hover:bg-primary-hover text-primary-foreground">
@@ -50,6 +53,7 @@ This guide shows how to use the centralized theme system with Tailwind CSS v4.
 ```
 
 ### Borders
+
 ```tsx
 // ✅ Good
 <div className="border border-[var(--border)] hover:border-[var(--border-hover)]">
@@ -61,6 +65,7 @@ This guide shows how to use the centralized theme system with Tailwind CSS v4.
 ```
 
 ### Cards
+
 ```tsx
 // ✅ Good
 <div className="bg-card text-card-foreground border border-[var(--border)] hover:bg-card-hover">
@@ -69,6 +74,7 @@ This guide shows how to use the centralized theme system with Tailwind CSS v4.
 ```
 
 ### Alert Messages
+
 ```tsx
 // ✅ Success
 <div className="bg-success-light border-l-4 border-success text-foreground">
@@ -92,6 +98,7 @@ This guide shows how to use the centralized theme system with Tailwind CSS v4.
 ## 📋 Available Theme Classes
 
 ### Colors
+
 - `bg-primary`, `bg-primary-hover`, `bg-primary-light`
 - `bg-secondary`, `bg-secondary-hover`, `bg-secondary-light`
 - `bg-accent`, `bg-accent-hover`, `bg-accent-light`
@@ -103,6 +110,7 @@ This guide shows how to use the centralized theme system with Tailwind CSS v4.
 - `bg-disabled`
 
 ### Text Colors
+
 - `text-foreground` (main text)
 - `text-foreground-secondary` (secondary text)
 - `text-foreground-muted` (subtle text)
@@ -111,6 +119,7 @@ This guide shows how to use the centralized theme system with Tailwind CSS v4.
 - `text-success`, `text-error`, `text-warning`
 
 ### Navigation & Footer
+
 - `bg-nav-background`, `text-nav-foreground`
 - `text-nav-link`, `text-nav-link-hover`, `text-nav-link-active`
 - `bg-footer-background`, `text-footer-foreground`
@@ -142,6 +151,7 @@ For one-off cases or when you need more control:
 ## 💡 Common Patterns
 
 ### Full Page Layout
+
 ```tsx
 <div className="min-h-screen bg-gradient-to-br from-[var(--background-gradient-from)] to-[var(--background-gradient-to)]">
   <main className="bg-card text-card-foreground">
@@ -151,6 +161,7 @@ For one-off cases or when you need more control:
 ```
 
 ### Form Input
+
 ```tsx
 <input
   className="
@@ -168,6 +179,7 @@ For one-off cases or when you need more control:
 ```
 
 ### Link
+
 ```tsx
 <a className="text-accent hover:text-accent-hover hover:underline">
   Click here
@@ -175,6 +187,7 @@ For one-off cases or when you need more control:
 ```
 
 ### Navigation Link
+
 ```tsx
 <a className="text-nav-link hover:text-nav-link-hover active:text-nav-link-active">
   Nav Item
